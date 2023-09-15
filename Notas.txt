@@ -2,5 +2,37 @@ Septiembre 14 Clase 1
 --------------------------------------------------
 Pagina del curso: https://nabetsecr.github.io/Disenno_De_Interfaz_Grafica_De_Usuario/
 
-nombre, residencia, trabajo, pasatiempo, expectativas del curso.
+Se utilizara Penpot
 
+6 labs cada uno 5% => 30% individuales
+
+
+4 portfolios cada uno 5% => 20% en grupo se trabajan en clase
+
+
+1 proyecto integrador => 50% grupal
+	plan investigacion 5% (Semana 5)
+	reporte investigacion 5% ()
+	wireframes and sitemap 15% ()
+        mockups 20% ()
+        defensa 5% es un video promocional ()
+
+	entregables
+
+	documento ieee
+        video promocional
+        prototipo
+
+
+-------------------------------------------------------------
+
+Grupo 2
+
+-------------------------------------------------------------
+
+Unidad 1
+
+UI: User Interface => Lo que ve e interactua el usuario final
+
+UX: User Experience => Metodos para crear productos que proporcionen experiencias significativas y relevantes a los usuarios.
+                       
