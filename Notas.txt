@@ -2,3 +2,5 @@ Septiembre 14 Clase 1
 --------------------------------------------------
 Pagina del curso: https://nabetsecr.github.io/Disenno_De_Interfaz_Grafica_De_Usuario/
 
+nombre, residencia, trabajo, pasatiempo, expectativas del curso.
+
